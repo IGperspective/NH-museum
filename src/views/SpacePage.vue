@@ -158,6 +158,7 @@ export default {
     justify-content: center;
     align-items: stretch;
     gap: 50px;
+    margin:40px 0px;
   }
 }
 .button-load {
